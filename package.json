@@ -23,7 +23,7 @@
     "prop-types": "^15.5.7"
   },
   "peerDependencies": {
-    "react": "15.x || 16.x"
+    "react": ">=16.3"
   },
   "devDependencies": {
     "@types/jest": "^20.0.8",
